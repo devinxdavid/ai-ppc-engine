@@ -1,0 +1,6 @@
+date,campaign,clicks,cost,conversions,conversion_value
+2026-01-01,Search Brand,120,240,18,3600
+2026-01-01,Search NonBrand,300,900,25,6000
+2026-01-01,PMax,150,300,20,4000
+2026-01-02,Search Brand,180,450,12,2400
+2026-01-02,Search NonBrand,320,950,28,6800
