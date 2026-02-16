@@ -4,59 +4,77 @@ End-to-end AI + Python system for paid media analysis, KPI modeling, forecasting
 
 
 
-\# AI + PPC Engine (Portfolio Project)
+\# AI + PPC Engine
 
 
 
-\## Overview
-
-This project demonstrates how I combine PPC strategy, Python analytics, and AI workflows to build a scalable paid media system.
+AI-powered paid media analytics engine built with Python for KPI modeling, performance forecasting, automation, and revenue optimization.
 
 
 
-\## What This Project Shows
-
-\- KPI modeling (ROAS, CPA)
-
-\- Backend revenue analysis
-
-\- Data processing using Python + Pandas
-
-\- Automated report generation
+---
 
 
 
-\## How to Run
+\## 🚀 Overview
 
 
 
-1\. Create virtual environment:
-
-&nbsp;  python -m venv .venv
+This project demonstrates how I combine PPC strategy, Python analytics, and lightweight automation to build a scalable paid media intelligence system.
 
 
 
-2\. Activate:
-
-&nbsp;  .\\.venv\\Scripts\\activate
+Instead of relying only on platform dashboards, this engine:
 
 
 
-3\. Install dependencies:
+\- Processes raw campaign exports
 
-&nbsp;  pip install -r requirements.txt
+\- Calculates core business KPIs (ROAS, CPA)
 
+\- Generates a clean HTML dashboard
 
-
-4\. Run demo:
-
-&nbsp;  python scripts\\generate\_demo\_report.py
+\- Simulates real backend reporting workflows
 
 
 
-\## Sample Output
+This reflects how I approach paid media — as a system, not just campaigns.
 
-See docs/demo\_report.md
+
+
+---
+
+
+
+\## 📊 Demo Dashboard
+
+
+
+The project automatically generates a clean HTML performance dashboard from sample Google Ads data.
+
+
+
+\### KPIs Included:
+
+\- Total Spend
+
+\- Conversions
+
+\- Revenue
+
+\- ROAS
+
+\- CPA
+
+
+
+\### Visualizations:
+
+\- Daily Spend vs Revenue Trend
+
+\- ROAS by Campaign
+
+\- Top Campaign
 
 
 
